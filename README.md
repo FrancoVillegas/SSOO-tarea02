@@ -1,4 +1,4 @@
-Autor: Franco Villegas Correo: franco.villegas@alumnos.uv.cl
+Autor: Franco Villegas | Correo: franco.villegas@alumnos.uv.cl
 
 Como primer punto se buscó buscó información sobre el funcionamiento de los comandos cURL [1] y jq [2]. Luego, utlizando el comando cURL se descargó el archivo solicitado y con jq se realizo la manipulación de los datos.
 
